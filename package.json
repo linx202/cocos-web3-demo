@@ -1,0 +1,13 @@
+{
+  "name": "NewProject",
+  "uuid": "f5a0b630-11bb-491a-b58b-8375ef78c2f2",
+  "version": "3.0.0",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "protobufjs": "^7.2.3",
+    "web3": "^1.10.0"
+  }
+}
